@@ -1,3 +1,5 @@
+# Original code: https://www.youtube.com/watch?v=9P5MY_2i7K8
+# Features include: Options for displaying main results, relocation button choice
 from gui import *
 
 
